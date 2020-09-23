@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\Sparsh\\Anaconda3\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint-flask","pylint-flask-sqlalchemy"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
